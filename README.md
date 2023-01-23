@@ -10,4 +10,3 @@ good
 goodj
 good
 fine
-fiune
