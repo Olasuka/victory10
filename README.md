@@ -7,9 +7,7 @@ fine
 good
 ggopo
 good
-good
-good
-good
+goodj
 good
 fine
 fiune
